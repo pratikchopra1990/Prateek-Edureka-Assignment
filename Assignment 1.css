@@ -1,0 +1,193 @@
+#webpage {
+    padding: 0 0 50px;
+    background-color: #e9e9e9;
+}
+
+#header {
+    padding: 15px 100px 15px 100px;
+    background-color: #ce0505;
+}
+
+#ellipse-logo {
+    width: 52px;
+    height: 52px;
+    margin: 15px 740px 15px 0;
+    border-radius: 50%;
+    background-color: #ffffff;
+    display: inline-block;
+    font-family: Poppins;
+    font-size: 33px;
+    font-weight: 600;
+    text-align: center;
+    color: #eb2929;
+}
+
+#login {
+    margin: 0px 20px 0px 0;
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 500;
+    color: #ffffff;
+}
+
+#create-an-account {
+    margin: 0px 0 0 10px;
+    padding: 5px 5px 5px 5px;
+    border-radius: 3px;
+    border: solid 1px #ffffff;
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 500;
+    color: #ffffff;
+}
+
+#page-header {
+    margin: 20px 0 20px 100px;
+    font-family: Poppins;
+    font-size: 36px;
+    font-weight: bold;
+    color: #192f60;
+}
+
+#filter-section {
+    width: 240px;
+    height: 680px;
+    margin: 20px 25px 20px 100px;
+    padding: 25px 20px 25px 20px;
+    box-shadow: 0 3px 6px 0 rgb(231 24 24 / 74%);
+    background-color: #ffffff;
+    display: inline-block;
+}
+
+.title {
+    font-family: Poppins;
+    font-size: 18px;
+    font-weight: 600;
+    color: #192f60;
+}
+
+.subtitle {
+    margin: 15px 102px 11px 1px;
+    font-family: Poppins;
+    font-size: 14px;
+    color: #192f60;
+}
+
+#select-location {
+    width: 210px;
+    height: 35px;
+    margin: 10px 0 20px 0px;
+    padding: 8px 16.7px 7px 15px;
+    border-radius: 5px;
+    border: solid 1px #8c96ab;
+}
+
+.options {
+    margin: 15px 0 10px 10px;
+    font-family: Poppins;
+    font-size: 14px;
+    color: #8c96ab;
+}
+
+.itemsBlock {
+    display: inline-block;
+    vertical-align: top;
+}
+
+.items {
+    display: block;
+    width: 660px;
+    height: 280px;
+    margin: 20px 100px 20px 30px;
+    padding: 20px 20px 20px 20px;
+    box-shadow: 0 3px 6px 0 rgb(231 24 24 / 74%);
+    background-color: #ffffff;
+}
+
+.images {
+    display: inline-block;
+    width: 110px;
+    height: 110px;
+    object-fit: none;
+    border-radius: 10px;
+    margin: 5px 10px 10px 5px;
+}
+
+.item-desc {
+    display: inline-block;
+    vertical-align: top;
+    margin: 20px 40px 10px 20px;
+
+}
+
+.restaurant-name {
+    font-family: Poppins;
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 1.5;
+    color: #192f60;
+}
+
+.address-line1 {
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 1.8;
+    color: #192f60;
+}
+
+.address-line2 {
+    font-family: Poppins;
+    font-size: 16px;
+    color: #636f88;
+    line-height: 1.5;
+}
+
+.partition {
+    width: 600px;
+    height: 0;
+    margin: 15px 0 0 10px;
+    border: solid 1px #dedfe5;
+}
+
+.items-bot-left {
+    display: inline-block;
+    width: 150px;
+    margin: 30px 0 0 10px;
+    font-family: Poppins;
+    font-size: 16px;
+    line-height: 2.0;
+    color: #636f88;
+}
+
+.items-bot-right {
+    display: inline-block;
+    font-family: Poppins;
+    font-size: 16px;
+    line-height: 2.0;
+    color: #192f60;
+
+}
+
+.pagination {
+    display: inline-block;
+    margin: 10px 30px 30px 215px;
+}
+
+.page {
+    padding: 5px 12px 3px;
+    display: inline-block;
+    margin: 0 5px 0 5px;
+    width: 12px;
+    border-radius: 7px;
+    border: solid 1px #8c96ab;
+    background-color: #ffffff;
+    font-family: Poppins;
+    font-size: 20px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    letter-spacing: normal;
+    text-align: center;
+    color: #8c96ab;
+}
